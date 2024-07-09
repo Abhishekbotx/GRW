@@ -67,7 +67,7 @@ const designers = [
       'https://rrgraphdesign.com/blog/wp-content/uploads/2022/06/austin-distel-21GWwco-JBQ-unsplash.jpg',
   },
   {
-    name: 'Shopping Card #1',
+    name: 'Punam Shrivastava',
     work: 'Bridal Dress',
     image:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEZVzKyHNY8yFM7BzYWCu_hDQaYKCncOi1Or44aiIXtRQXmmRM_Nmqcu_4c-aty6sVJM&usqp=CAU',

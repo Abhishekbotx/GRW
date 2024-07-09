@@ -1,36 +1,42 @@
 import React from 'react';
+import Image1 from './../../Images/G1.jpg'
+import Image2 from './../../Images/G2.jpg'
+import Image3 from './../../Images/G3.jpg'
+import Image4 from './../../Images/G4.jpg'
+import Image5 from './../../Images/G5.jpg'
+import Image6 from './../../Images/G6.jpg'
 
 const UpcomingEvents = () => {
   const events = [
     {
-      image: 'https://www.hunarcourses.com/blog/wp-content/uploads/2021/01/Hunar-Online-Live-digital-fashion-show-730x410.jpg',
+      image: Image1,
+      title: 'Bridal Week',
+      date: 'Join us on our new journey in 2025, January',
+    },
+    {
+      image: Image2,
+      title: 'Bridal Week',
+      date: 'Join us on our new journey in 2025, January',
+    },
+    {
+      image: Image3,
+      title: 'Bridal Week',
+      date: 'Join us on our new journey in 2025, January',
+    },
+    {
+      image: Image4,
+      title: 'Bridal Week',
+      date: 'Join us on our new journey in 2025, January',
+    },
+    {
+      image: Image5,
       title: 'Bridal Week',
       date: 'Join us on our new journey in 2024, January',
     },
     {
-      image: 'https://5.imimg.com/data5/SELLER/Default/2021/8/HD/AL/KA/18384253/fashion-show-event-services-1000x1000.jpg',
+      image: Image6,
       title: 'Bridal Week',
-      date: 'Join us on our new journey in 2024, January',
-    },
-    {
-      image: 'https://www.lisaadelhi.com/wp-content/uploads/2016/08/lisaa-rajhasthan-fashion-1024x681.jpg',
-      title: 'Bridal Week',
-      date: 'Join us on our new journey in 2024, January',
-    },
-    {
-      image: 'https://4.imimg.com/data4/MK/NI/ANDROID-30427218/product-500x500.jpeg',
-      title: 'Bridal Week',
-      date: 'Join us on our new journey in 2024, January',
-    },
-    {
-      image: 'https://static.toiimg.com/thumb/msid-97843086,width-400,resizemode-4/97843086.jpg',
-      title: 'Bridal Week',
-      date: 'Join us on our new journey in 2024, January',
-    },
-    {
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQ8Ajc5tcdShWEgqXj2qBopcm9JSRH8Wy-bL69gb6zA&s',
-      title: 'Bridal Week',
-      date: 'Join us on our new journey in 2024, January',
+      date: 'Join us on our new journey in 2025, January',
     },
   ];
 

@@ -1,4 +1,6 @@
 import React from 'react';
+import Image1 from '../../Images/I1.jpeg'
+import Image2 from '../../Images/I2.jpg'
 
 const GoaResortWeek = () => {
   return (
@@ -8,12 +10,12 @@ const GoaResortWeek = () => {
         {/* Left Column - Images */}
         <div className="flex flex-col items-center space-y-8 md:mt-28">
           <img
-            src="https://img.freepik.com/premium-photo/fitness-woman-exercise-gym-healthy-life-concept_41969-22179.jpg"
+            src={Image1}
             alt="Event"
             className="w-full h-96 object-cover rounded-lg shadow-md"
           />
           <img
-            src="https://img.freepik.com/premium-photo/fitness-woman-exercise-gym-healthy-life-concept_41969-22179.jpg"
+            src={Image2}
             alt="Event"
             className="w-full h-96 object-cover rounded-lg shadow-md"
           />

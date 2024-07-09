@@ -1,5 +1,9 @@
 import React from 'react';
-
+import iram from '../../Images/iram.jpeg'
+import neha from '../../Images/neha.jpeg'
+import beeresh from '../../Images/beeresh.jpeg'
+import nicole from '../../Images/nicole.jpeg'
+import simna from '../../Images/simna.jpeg'
 const OurTeam = () => {
   return (
     <div className="py-8">
@@ -33,35 +37,36 @@ const OurTeam = () => {
 
 const teamMembers = [
   {
-    name: 'Jacob Jones',
-    position: 'CEO',
-    image: 'https://images.provenexpert.com/2e/c3/f80fa7eb3db8e03dac2f9e1de7e5/dong-r-rogers_medium_1713960006.jpg',
+    name: 'Nicole liz faria',
+    position: 'Founder And CEO',
+    image: nicole,
   },
   {
-    name: 'Jacob Jones',
-    position: 'CEO',
-    image: 'https://media.istockphoto.com/id/1413766112/photo/successful-mature-businessman-looking-at-camera-with-confidence.jpg?s=612x612&w=0&k=20&c=NJSugBzNuZqb7DJ8ZgLfYKb3qPr2EJMvKZ21Sj5Sfq4=',
+    name: 'Iram Ayub Khan',
+    position: 'Co-Founder',
+    image: iram,
   },
   {
-    name: 'Jacob Jones',
-    position: 'CEO',
-    image: 'https://media.istockphoto.com/id/1371934584/photo/portrait-of-a-confident-mature-businesswoman-working-in-a-modern-office.jpg?s=612x612&w=0&k=20&c=NF_IO6IEXY3HifRIhRqP0KDFJFdlFwaMwo3zfOOvKnQ=',
+    name: 'Beeresh Singh',
+    position: 'Accounts Head',
+    image: beeresh,
   },
   {
-    name: 'Jacob Jones',
-    position: 'CEO',
-    image: 'https://www.shutterstock.com/image-photo/happy-mid-aged-older-business-600nw-2322385015.jpg',
+    name: 'Sneha rade',
+    position: 'Finance Controller',
+    image: neha,
   },
   {
-    name: 'Jacob Jones',
-    position: 'CEO',
+    name: 'simna babu',
+    position: 'Makup Artist',
+    image: simna,
+  },
+  {
+    name: 'Riya Jones',
+    position: 'Social Media Manager',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HiG2STwMH3NX6wNbZQoiyj7wOWW3GwZRkwQ8tHF8UA&s',
   },
-  {
-    name: 'Jacob Jones',
-    position: 'CEO',
-    image: 'https://qph.cf2.quoracdn.net/main-qimg-14ddc29fbf2d030e82757cadb05f4537-lq',
-  },
+  
 ];
 
 export default OurTeam;
