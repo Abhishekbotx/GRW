@@ -15,12 +15,12 @@ const SignupPage = () => {
       console.log('Create account button was clicked');
       const response = await firebase.signupUserWithEmailAndPassword(email, password);
       if (response) {
-        alert('Account Logged In Successfully');
+        alert('Account Signed Up Successfully');
         navigate('/')
       }
     } catch (error) {
       console.error('Error creating account:', error.message);
-      alert('Error in  Signing In:', error.message);
+      alert('Error in  Signing Up:', error.message);
     }
   };
 
