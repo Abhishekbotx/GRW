@@ -1,0 +1,38 @@
+[
+    {
+      "rating": 3,
+      "text": "Yo, your stuff is the bomb! House rent is the real deal! I STRONGLY recommend house rent to EVERYONE interested in running a successful online business!",
+      "author": {
+        "name": "Lana Bernier",
+        "title": "Single Mother, Manager",
+        "imageUrl": "https://t3.ftcdn.net/jpg/06/13/49/28/360_F_613492898_qilXcIyNJbKkPrHFraGfHzkOl9GPiAiu.jpg"
+      }
+    },
+    {
+      "rating": 5,
+      "text": "I like Infinity Estate more and more each day because it makes my life a lot easier. We can't understand how we've been living without Infinity Estate. Infinity Estate has got everything I need. The service was excellent.",
+      "author": {
+        "name": "Mrs. Van Hartmann",
+        "title": "Single Mother, Manager",
+        "imageUrl": "https://img.freepik.com/premium-photo/indian-executive-manager-working-with-laptop-office_161094-6018.jpg"
+      }
+    },
+    {
+      "rating": 5,
+      "text": "Dude, your stuff is the bomb! House rent is the real deal! I STRONGLY recommend house rent to EVERYONE interested in running a successful online business!",
+      "author": {
+        "name": "Lana Bernier",
+        "title": "Single Mother, Manager",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM321_ILaLSTQi9GkuaeBYEOCo7eR3uGuIaz7BS42KUhdgFOEebmc6sQYeLEyiPrFMbhc&usqp=CAU"
+      }
+    },
+    {
+      "rating": 5,
+      "text": "I like Infinity Estate more and more each day because it makes my life a lot easier. We can't understand how we've been living without Infinity Estate. Infinity Estate has got everything I need. The service was excellent.",
+      "author": {
+        "name": "Mrs. Van Hartmann",
+        "title": "Single Mother, Manager",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRlDraTCQnuweGytrhLP38-aaGQPZeK0VZX_IBDFbBJ416rmoeC0k-ru8cCW0lXTeGw4&usqp=CAU"
+      }
+    }
+  ]
