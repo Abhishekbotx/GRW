@@ -6,6 +6,7 @@ import image4 from '../../Images/p4.jpeg'
 import image5 from '../../Images/p5.png'
 import image6 from '../../Images/p6.jpeg'
 import image7 from '../../Images/p7.jpeg'
+import image8 from '../../Images/logo8.png'
 // import image8 from '../../Images/p8.jpg'
 
 // Logo data
@@ -39,8 +40,8 @@ const logoData = [
     alt: "Armani",
   },
   {
-    src: "https://www.shutterstock.com/image-vector/dolce-gabbana-logo-prepared-cleaned-600nw-2399817845.jpg",
-    alt: "Dolce & Gabbana",
+    src: image8,
+    alt: "Deesan Group",
   },
   // {
   //   src: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/1280px-Adidas_Logo.svg.png",
